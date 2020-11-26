@@ -1,0 +1,8 @@
+just_a_folder/
+*.txt
+not_wanted.py
+
+
+bin/
+include/
+# *.py
