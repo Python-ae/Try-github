@@ -1,5 +1,6 @@
 just_a_folder/
-*.txt
+txt1.txt
+
 not_wanted.py
 
 
